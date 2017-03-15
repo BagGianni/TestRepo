@@ -1,0 +1,3 @@
+driver.findElementByID
+driver.findElementByClass
+driver.findElementByName
