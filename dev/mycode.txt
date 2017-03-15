@@ -5,6 +5,3 @@ driver.findElementByName
 Test Here!
 
 Test here 2 you know!
-
-
-I have added this code from the web
